@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    background-color: rgb(247, 247, 175);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: calc(100vw - 270px);
+    height: 40px;
+}

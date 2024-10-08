@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Metrophobic", sans-serif;
+}
+.sidebar{
+    border: 0.9px solid rgb(251, 251, 251);
+    width: 256px;
+    min-height:100vh;
+    overflow: auto;
+    position: relative;
+    overflow: hidden;
+}
+.header{
+    background-color: #03a1fc;
+    text-align: center;
+    font-size: .78rem;
+    color: white;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    padding: 10px;
+    height: 110px;
+}
